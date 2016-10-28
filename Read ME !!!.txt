@@ -1,1 +1,3 @@
-use "Chat" program to setup server/client
+1 . use "Chat" program to setup server/client
+2 . Chatting groups can also be created.
+2 . Public or private environment can be set for chatting.
