@@ -5,6 +5,7 @@
 #include<sys/socket.h>
 #include<signal.h>
 #define HELP printf("\nCommands available: getlist,disconnect,name_<name>,send_<cli_id>,help");
+
 struct addr{
 	int id;
 	char name[25];

@@ -14,7 +14,6 @@ struct addr{
 	char name[25];
 };
 
-
 struct child{
 int fd[2];
 int fd_[2];
@@ -32,8 +31,6 @@ char message[256];
 struct addr dstn;
 struct addr src;
 };
-
-
 
 
 

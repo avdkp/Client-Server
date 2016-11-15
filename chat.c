@@ -9,7 +9,6 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 
-
 void show_server(){
 system("arp > _temp");
 FILE *fp = fopen("_temp","rb");
@@ -22,8 +21,6 @@ while(1){
 	
 	if(feof(fp)) break;
 }
-
-
 
 
 fseek(fp,0,SEEK_SET);
