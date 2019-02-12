@@ -1,3 +1,3 @@
-# proj1
+# project
 c1ient-server chat application for linux
 
